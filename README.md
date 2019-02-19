@@ -53,7 +53,7 @@
 
 #
 
-### :mortar_board: Formação Acadêmica
+### :mortar_board: Formação Acadêmica :mortar_board:
 
 * :clock5: 2018 - 2023
 * **Aliança Francesa** - Língua Francesa
