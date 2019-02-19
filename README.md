@@ -66,4 +66,10 @@
 * :clock5: 2012 - 2013
 * **Técnico em Eletrônica** - Centro de Educação Profissional Hélio Augusto de Souza
 
+#
+
+### :books: Cursos e Certificados :books:
+* **Alura**
+  * <a href="https://cursos.alura.com.br/user/paulohenrique-sales47/course/asp-net-core-web-api/certificate" target="_blank">APIS REST COM ASP.NET CORE 2.1 PARTE 1: DA APP MVC PARA API</a>
+
 
