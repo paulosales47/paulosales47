@@ -56,14 +56,14 @@
 ### :mortar_board: Formação Acadêmica :mortar_board:
 
 * :clock5: 2018 - 2023
-* **Aliança Francesa** - Língua Francesa
+* **Língua Francesa** - Aliança Francesa
 * :clock5: 2018 - 2023
-* **Cultura Inglesa** - Língua inglesa
+* **Língua inglesa** - Cultura Inglesa
 * :clock5: 2014 - 2018
-* **Anhanguera Educacional** - Bacharelado em Ciência da Computação
+* **Bacharelado em Ciência da Computação** - Anhanguera Educacional
 * :clock5: 2013 - 2014
-* **ETEC - Escola Técnica Estadual de São Paulo** - Técnico em Informática
+* **Técnico em Informática** - ETEC - Escola Técnica Estadual de São Paulo
 * :clock5: 2012 - 2013
-* **Centro de Educação Profissional Hélio Augusto de Souza** - Técnico em Eletrônica
+* **Técnico em Eletrônica** - Centro de Educação Profissional Hélio Augusto de Souza
 
 
