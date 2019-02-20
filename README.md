@@ -105,7 +105,7 @@
 - [x] Publicar aplicação Node (Azure)
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 1
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 2
-- [ ] Alura - APIs Rest com Asp.Net Core - Parte 3
+- [ ] Alura - APIs Rest com Asp.Net Core - Parte 3 :point_left:
 - [ ] Udemy - Node + TypeScript + MongoDB + Docker
 - [ ] Glaucia Lemos - Tutorial CRUD MEAN
 - [ ] Udemy - React + Redux
