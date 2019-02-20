@@ -10,8 +10,8 @@
 * :fire::fire::fire::fire: Transact-SQL (SQL-Server)
 * :fire::fire::fire::fire: Asp.NET MVC 5
 * :fire::fire::fire::fire: Testes Automatizados (Unidade / Integração / Interface) *XUnit e Selenium*
-* :fire::fire::fire: Asp.NET Core
 * :fire::fire::fire::fire: Javascript
+* :fire::fire::fire: Asp.NET Core
 * :fire::fire::fire::fire: API / Rest
 * :fire::fire::fire: Node JS
 * :fire::fire::fire: GIT
