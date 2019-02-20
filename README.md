@@ -69,8 +69,26 @@
 #
 
 ### :books: Cursos e Certificados :books:
-* **Alura**
-  * APIS REST COM ASP.NET CORE 2.1 PARTE 1: DA APP MVC PARA API [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/asp-net-core-web-api/certificate "Certificado")
 
+* **Microsoft**
+  * MTA: Software Development Fundamentals - Certified 2018 [:scroll:](https://www.youracclaim.com/badges/392d77ad-181d-41f5-b54a-304302e03360/linked_in_profile "Certificado")
+* **Udemy**
+  * Curso Completo do Desenvolvedor NodeJS e MongoDB [:scroll:](https://www.udemy.com/certificate/UC-BWE7Q60P/ "Certificado")
+* **Eduardo Pires**
+  * Arquitetura de Software .NET [:scroll:](https://drive.google.com/file/d/0B3am-ZRLRBdYX2FqMnUzODdmNTcyLTcyQ0U4YjRrbjhfM1pz/view "Certificado")
+  * Curso de Desenvolvimento WEB com ES6, TypeScript e Angular [:scroll:](https://www.udemy.com/certificate/UC-ASVZM964/ "Certificado")  * **Alura**
+  * APIS REST COM ASP.NET CORE 2.1 PARTE 1: DA APP MVC PARA API [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/asp-net-core-web-api/certificate "Certificado")
+  * APIS REST COM ASP.NET CORE 2.1 PARTE 2: DA APP MVC PARA API [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/asp-net-core-web-api-rest/certificate "Certificado")
+  * ASP.NET MVC 5: O FRAMEWORK PRONTO PARA A WEB [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/desenvolvimento-web-asp-net-mvc-5/certificate "Certificado")
+  * ENTITY FRAMEWORK CORE PARTE 1: MAPEANDO UM BANCO PRÉ-EXISTENTE [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/entity-framework-core-banco-pre-existente-parte1/certificate "Certificado")
+  * ENTITY FRAMEWORK CORE PARTE 2: MAPEANDO UM BANCO PRÉ-EXISTENTE [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/entity-framework-core-banco-pre-existente-parte2/certificate "Certificado")
+  * ENTITY FRAMEWORK CORE: BANCO DE DADOS DE FORMA EFICIENTE [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/entity-framework-core/certificate "Certificado")
+  * JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/javascript-programando-na-linguagem-web/certificate "Certificado")
+  * Testes: TDD com C# [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/test-driven-development-tdd-dotnet/certificate "Certificado")
+  * Design Patterns C# I: Boas práticas de programação [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/design-patterns-dotnet/certificate "Certificado")
+  * Design Patterns C# II: Boas práticas de programação [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/design-patterns-2-dot-net/certificate "Certificado")
+  * SOLID com C#: Orientação a Objetos com C# [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/orientacao-a-objetos-avancada-e-principios-solid-csharp/certificate "Certificado")
+  * C# Refatoração Parte 1: Praticando refatoração de código [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/csharp-refatorando-codigo/certificate "Certificado")
+  * C# Refatoração Parte 2: Refatorações baseadas em Orientação a Objetos [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/csharp-refatorando-codigo-parte-2/certificate "Certificado")
 
 
