@@ -94,3 +94,29 @@
   * SOLID com C#: Orientação a Objetos com C# [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/orientacao-a-objetos-avancada-e-principios-solid-csharp/certificate "Certificado")
   * C# Refatoração Parte 1: Praticando refatoração de código [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/csharp-refatorando-codigo/certificate "Certificado")
   * C# Refatoração Parte 2: Refatorações baseadas em Orientação a Objetos [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/csharp-refatorando-codigo-parte-2/certificate "Certificado")
+  
+  
+  # 
+  
+  ### :pencil2: Sequência de Estudos :pencil2:
+  
+- [x] Curso Completo do Desenvolvedor NodeJS e MongoDB
+- [x] Habilitar Https - Node.JS
+- [x] Publicar aplicação Node (Azure)
+- [x] Alura - APIs Rest com Asp.Net Core - Parte 1
+- [x] Alura - APIs Rest com Asp.Net Core - Parte 2
+- [ ] Alura - APIs Rest com Asp.Net Core - Parte 3
+- [ ] Udemy - Node + TypeScript + MongoDB + Docker
+- [ ] Glaucia Lemos - Tutorial CRUD MEAN
+- [ ] Udemy - React + Redux
+- [ ] RabbitMQ + AspNet Core
+- [ ] Curso DevOps - Julio Arruda
+- [ ] Angular + Asp.NET Core
+- [ ] Alura - Curso Amazon EC2
+- [ ] Alura - Curso Azure
+- [ ] Julio Arruda - Curso DevOps
+- [ ] Eduardo Pires - DDD
+- [ ] Tutorial - CQRS
+- [ ] Udemy - Curso Completo de Sass/Scss: Do Iniciante ao Avançado
+- [ ] Udemy - Bootstrap 4 - Completo, Prático e Responsivo
+- [ ] Adobe XD
