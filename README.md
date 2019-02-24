@@ -10,13 +10,13 @@
 * :fire::fire::fire::fire: Transact-SQL (SQL-Server)
 * :fire::fire::fire::fire: Asp.NET MVC 5
 * :fire::fire::fire::fire: Testes Automatizados (Unidade / Integração / Interface) *XUnit e Selenium*
-* :fire::fire::fire::fire: Javascript
 * :fire::fire::fire::fire: API / Rest
 * :fire::fire::fire: Asp.NET Core
 * :fire::fire::fire: Node JS
 * :fire::fire::fire: GIT
 * :fire::fire::fire: HTML
 * :fire::fire::fire: CSS
+* :fire::fire::fire: Javascript
 * :fire::fire: Angular
 * :fire: MongoDB
 
@@ -76,6 +76,7 @@
 * **Udemy**
   * Curso Completo do Desenvolvedor NodeJS e MongoDB [:scroll:](https://www.udemy.com/certificate/UC-BWE7Q60P/ "Certificado")
   * Curso de Desenvolvimento WEB com ES6, TypeScript e Angular [:scroll:](https://www.udemy.com/certificate/UC-ASVZM964/ "Certificado")
+  * Criando API's RESTful utilizando TypeScript, Node e mongoDB [:scroll:](https://www.udemy.com/certificate/UC-ZJEXXNUZ/)
   
 * **Eduardo Pires**
   * Arquitetura de Software .NET [:scroll:](https://drive.google.com/file/d/0B3am-ZRLRBdYX2FqMnUzODdmNTcyLTcyQ0U4YjRrbjhfM1pz/view "Certificado")
@@ -83,6 +84,7 @@
 * **Alura**
   * APIS REST COM ASP.NET CORE 2.1 PARTE 1: DA APP MVC PARA API [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/asp-net-core-web-api/certificate "Certificado")
   * APIS REST COM ASP.NET CORE 2.1 PARTE 2: DA APP MVC PARA API [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/asp-net-core-web-api-rest/certificate "Certificado")
+  * APIS REST COM ASP.NET CORE 2.1 PARTE 3: PADRONIZANDO A API [:scroll:](https://cursos.alura.com.br/certificate/paulohenrique-sales47/api-rest-net-core-2-padronizacao "Certificado")
   * ASP.NET MVC 5: O FRAMEWORK PRONTO PARA A WEB [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/desenvolvimento-web-asp-net-mvc-5/certificate "Certificado")
   * ENTITY FRAMEWORK CORE PARTE 1: MAPEANDO UM BANCO PRÉ-EXISTENTE [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/entity-framework-core-banco-pre-existente-parte1/certificate "Certificado")
   * ENTITY FRAMEWORK CORE PARTE 2: MAPEANDO UM BANCO PRÉ-EXISTENTE [:scroll:](https://cursos.alura.com.br/user/paulohenrique-sales47/course/entity-framework-core-banco-pre-existente-parte2/certificate "Certificado")
@@ -106,7 +108,10 @@
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 1
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 2
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 3
-- [ ] Udemy - Node + TypeScript + MongoDB + Docker :point_left:
+- [x] Udemy - Node + TypeScript + MongoDB + Docker
+- [ ] ALura - Gulp: automação de tarefas front-end :point_left:
+- [ ] Glaucia Lemos - API RestFul TDD Node.js com Mocha & Chai - Parte I
+- [ ] Glaucia Lemos - Bora aprender TDD com Mocha, Chai & Node.js - Parte II
 - [ ] Glaucia Lemos - Tutorial CRUD MEAN
 - [ ] Udemy - React + Redux
 - [ ] RabbitMQ + AspNet Core
