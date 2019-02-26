@@ -18,6 +18,7 @@
 * :fire::fire::fire: CSS
 * :fire::fire::fire: Javascript
 * :fire::fire: Angular
+* :fire: Docker
 * :fire: MongoDB
 
 #
