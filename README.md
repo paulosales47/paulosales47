@@ -109,8 +109,10 @@
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 1
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 2
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 3
-- [x] Udemy - Node + TypeScript + MongoDB + Docker
+- [x] Udemy - Node + TypeScript + MongoDB e Docker
+- [x] Tutorial Redis + NodeJS + Mongo e Docker
 - [ ] ALura - Gulp: automação de tarefas front-end :point_left:
+- [ ] Udemy - Curso Docker
 - [ ] Glaucia Lemos - API RestFul TDD Node.js com Mocha & Chai - Parte I
 - [ ] Glaucia Lemos - Bora aprender TDD com Mocha, Chai & Node.js - Parte II
 - [ ] Glaucia Lemos - Tutorial CRUD MEAN
