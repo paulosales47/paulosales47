@@ -18,6 +18,7 @@
 * :fire::fire::fire: CSS
 * :fire::fire::fire: Javascript
 * :fire::fire: Angular
+* :fire::fire: Gulp
 * :fire: Docker
 * :fire: MongoDB
 
@@ -111,8 +112,8 @@
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 3
 - [x] Udemy - Node + TypeScript + MongoDB e Docker
 - [x] Tutorial Redis + NodeJS + Mongo e Docker
-- [ ] ALura - Gulp: automação de tarefas front-end :point_left:
-- [ ] Udemy - Curso Docker
+- [x] ALura - Gulp: automação de tarefas front-end 
+- [ ] Udemy - Curso Docker :point_left:
 - [ ] Glaucia Lemos - API RestFul TDD Node.js com Mocha & Chai - Parte I
 - [ ] Glaucia Lemos - Bora aprender TDD com Mocha, Chai & Node.js - Parte II
 - [ ] Glaucia Lemos - Tutorial CRUD MEAN
