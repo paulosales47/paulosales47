@@ -113,7 +113,7 @@
 - [x] Udemy - Node + TypeScript + MongoDB e Docker
 - [x] Tutorial Redis + NodeJS + Mongo e Docker
 - [x] ALura - Gulp: automação de tarefas front-end 
-- [ ] Curso DevOps - Julio Arruda :point_left:
+- [ ] Curso DevOps - Julio Arruda
 - [ ] Glaucia Lemos - API RestFul TDD Node.js com Mocha & Chai - Parte I
 - [ ] Glaucia Lemos - Bora aprender TDD com Mocha, Chai & Node.js - Parte II
 - [ ] Glaucia Lemos - Tutorial CRUD MEAN
