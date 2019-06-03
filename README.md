@@ -1,6 +1,6 @@
 # Resumo
 
-:octocat: Olá sou Paulo Henrique, desenvolvedor C#/Node full stack.
+:octocat: Olá, sou Paulo Henrique, desenvolvedor C#/Node full stack.
 
 #
 
