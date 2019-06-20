@@ -112,19 +112,16 @@
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 3
 - [x] Udemy - Node + TypeScript + MongoDB e Docker
 - [x] Tutorial Redis + NodeJS + Mongo e Docker
-- [x] ALura - Gulp: automação de tarefas front-end 
-- [ ] Curso DevOps - Julio Arruda
-- [ ] Glaucia Lemos - API RestFul TDD Node.js com Mocha & Chai - Parte I
-- [ ] Glaucia Lemos - Bora aprender TDD com Mocha, Chai & Node.js - Parte II
-- [ ] Glaucia Lemos - Tutorial CRUD MEAN
-- [ ] Udemy - React + Redux
+- [x] Alura - Gulp: automação de tarefas front-end 
+- [ ] Curso DevOps - Julio Arruda :point_left:
+- [ ] C# - Eventos, Delegates e Lambda
+- [ ] C# - Tuplas, parâmetros condicionais, e estilo de código
+- [ ] C# - Multithreading
 - [ ] RabbitMQ + AspNet Core
-- [ ] Angular + Asp.NET Core
-- [ ] Alura - Curso Amazon EC2
 - [ ] Alura - Curso Azure
-- [ ] Julio Arruda - Curso DevOps
 - [ ] Eduardo Pires - DDD
-- [ ] Tutorial - CQRS
+- [ ] CQRS
 - [ ] Udemy - Curso Completo de Sass/Scss: Do Iniciante ao Avançado
 - [ ] Udemy - Bootstrap 4 - Completo, Prático e Responsivo
 - [ ] Adobe XD
+- [ ] Angular - Site Pessoal
