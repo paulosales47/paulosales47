@@ -8,17 +8,17 @@
 
 * :fire::fire::fire::fire::fire: C#
 * :fire::fire::fire::fire: Transact-SQL (SQL-Server)
-* :fire::fire::fire::fire: Asp.NET MVC 5
-* :fire::fire::fire::fire: Testes Automatizados (Unidade / Integração / Interface) *XUnit e Selenium*
 * :fire::fire::fire::fire: API / Rest
-* :fire::fire::fire: Asp.NET Core
+* :fire::fire::fire::fire: Asp.NET Core
+* :fire::fire::fire: Asp.NET MVC 5
+* :fire::fire::fire: Testes Automatizados (Unidade / Integração / Interface) *XUnit e Selenium*
+* :fire::fire::fire: Flutter
 * :fire::fire::fire: Node JS
 * :fire::fire::fire: GIT
 * :fire::fire::fire: HTML
 * :fire::fire::fire: CSS
 * :fire::fire::fire: Javascript
 * :fire::fire: Angular
-* :fire::fire: Gulp
 * :fire: Docker
 * :fire: MongoDB
 
@@ -26,7 +26,16 @@
 
 ### :briefcase:Experiências Profissionais: :briefcase:
 
-* :clock5: jul 2018 - o momento
+* :clock5: jul 2019 - Presente
+* **Desenvolvedor de Software** - Capitani Group      
+  * Desenvolvimento de APIs (.Net Core 2.2/3.x) e aplicações SPA Angular (6/7/8).
+  * Levantamento de requisitos junto ao cliente.
+  * Criação e manutenção de scripts SQL (SQL Server).
+  * Criação de serviços Windows.
+
+##
+
+* :clock5: jul 2018 - jul 2019
 * **Analista de Sistemas** - Poliedro Educação      
   * Desenvolvimento de testes automatizados (xUnit e Selenium).
   * Criação de documentação para API (Swagger).
@@ -57,8 +66,6 @@
 
 ### :mortar_board: Formação Acadêmica :mortar_board:
 
-* :clock5: 2018 - 2023
-* **Língua Francesa** - Aliança Francesa
 * :clock5: 2018 - 2023
 * **Língua inglesa** - Cultura Inglesa
 * :clock5: 2014 - 2018
@@ -110,18 +117,6 @@
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 1
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 2
 - [x] Alura - APIs Rest com Asp.Net Core - Parte 3
-- [x] Udemy - Node + TypeScript + MongoDB e Docker
-- [x] Tutorial Redis + NodeJS + Mongo e Docker
-- [x] Alura - Gulp: automação de tarefas front-end 
-- [ ] Curso DevOps - Julio Arruda :point_left:
-- [ ] C# - Eventos, Delegates e Lambda
-- [ ] C# - Tuplas, parâmetros condicionais, e estilo de código
-- [ ] C# - Multithreading
-- [ ] RabbitMQ + AspNet Core
-- [ ] Alura - Curso Azure
-- [ ] Eduardo Pires - DDD
-- [ ] CQRS
-- [ ] Udemy - Curso Completo de Sass/Scss: Do Iniciante ao Avançado
-- [ ] Udemy - Bootstrap 4 - Completo, Prático e Responsivo
-- [ ] Adobe XD
-- [ ] Angular - Site Pessoal
+- [ ] Desenvolvimento Android e IOS com Flutter 2021 (Udemy) :point_left:
+- [ ] ASP.NET Core Enterprise Applications (desenvolvedor.io)
+
