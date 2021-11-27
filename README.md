@@ -26,7 +26,14 @@
 
 ### :briefcase:Experiências Profissionais: :briefcase:
 
-* :clock5: jul 2019 - Presente
+* :clock5: nov 2021 - Presente
+* **Desenvolvedor de Software** - Avivatec   
+  * Desenvolvimento de APIs .Net e aplicações SPA Angular
+  * Criação e manutenção de scripts SQL (SQL Server).
+
+##
+
+* :clock5: jul 2019 - out 2021
 * **Desenvolvedor de Software** - Capitani Group      
   * Desenvolvimento de APIs (.Net Core 2.2/3.x) e aplicações SPA Angular (6/7/8).
   * Levantamento de requisitos junto ao cliente.
