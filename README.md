@@ -7,10 +7,9 @@
 ### :computer: Habilidades: :computer:
 
 * :fire::fire::fire::fire::fire: C#
+* :fire::fire::fire::fire: .NET
 * :fire::fire::fire::fire: Transact-SQL (SQL-Server)
 * :fire::fire::fire::fire: API / Rest
-* :fire::fire::fire::fire: Asp.NET Core
-* :fire::fire::fire: Asp.NET MVC 5
 * :fire::fire::fire: Testes Automatizados (Unidade / Integração / Interface) *XUnit e Selenium*
 * :fire::fire::fire: Flutter
 * :fire::fire::fire: Node JS
@@ -116,14 +115,6 @@
   
   # 
   
-  ### :pencil2: Sequência de Estudos :pencil2:
+  ### :pencil2: Em estudo :pencil2:
   
-- [x] Curso Completo do Desenvolvedor NodeJS e MongoDB
-- [x] Habilitar Https - Node.JS
-- [x] Publicar aplicação Node (Azure)
-- [x] Alura - APIs Rest com Asp.Net Core - Parte 1
-- [x] Alura - APIs Rest com Asp.Net Core - Parte 2
-- [x] Alura - APIs Rest com Asp.Net Core - Parte 3
-- [ ] Desenvolvimento Android e IOS com Flutter 2021 (Udemy) :point_left:
-- [ ] ASP.NET Core Enterprise Applications (desenvolvedor.io)
-
+- [ ] ASP.NET Core Enterprise Applications (desenvolvedor.io) :point_left:
