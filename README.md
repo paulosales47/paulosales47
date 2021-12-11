@@ -72,14 +72,12 @@
 
 ### :mortar_board: Formação Acadêmica :mortar_board:
 
-* :clock5: 2018 - 2023
-* **Língua inglesa** - Cultura Inglesa
 * :clock5: 2014 - 2018
-* **Bacharelado em Ciência da Computação** - Anhanguera Educacional
+  * **Bacharelado em Ciência da Computação** - Anhanguera Educacional
 * :clock5: 2013 - 2014
-* **Técnico em Informática** - ETEC - Escola Técnica Estadual de São Paulo
+  * **Técnico em Informática** - ETEC - Escola Técnica Estadual de São Paulo
 * :clock5: 2012 - 2013
-* **Técnico em Eletrônica** - Centro de Educação Profissional Hélio Augusto de Souza
+  * **Técnico em Eletrônica** - Centro de Educação Profissional Hélio Augusto de Souza
 
 #
 
